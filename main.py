@@ -1,7 +1,6 @@
 def dif(a, b, c):
   if a < 0:
-    a = -1
-    print ("Число 'a' отрицательное: ", a)
+    return -1
   else:
     x = [a, b, c]
     maxNumb = max(x)
