@@ -37,4 +37,4 @@ cir = Circle("Круг",6)
 print(cir.name, "\n", "Площадь:", cir.area(), "\n")
 
 rh = Rhombus("Ромб",5, 6)
-print(Rh.name, "\n", "Площадь:", Rh.area(), "\n")
+print(rh.name, "\n", "Площадь:", rh.area(), "\n")
