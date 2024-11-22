@@ -18,7 +18,7 @@ class Circle(GeometricShape):
         super().__init__(name)
         self.radius = radius
     def area(self):
-        circle= (self.radius * self.radius) * 3.14
+        circle = (self.radius * self.radius) * 3.14
         return circle
 
 class Rhombus(GeometricShape):
